@@ -1,6 +1,6 @@
 ## RFID with the Internet of Things  (IoT) 
 
-The concept here is to glow a Led on an Arduino or any MCU with the help of an authorized RFID tag from anywhere (IoT). 
+The concept here is to glow a Led on an Arduino or any MCU with the help of an authorized RFID tag from anywhere (IoT). :smiley:
 
 The server is an eventmachine websocket server written in Ruby. Run the server from any machine.
 
