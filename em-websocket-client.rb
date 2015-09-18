@@ -1,3 +1,5 @@
+#em-websocket-client library 
+
 require 'eventmachine'
 require 'uri'
 require 'websocket'
