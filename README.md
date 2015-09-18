@@ -27,9 +27,9 @@ The three softwares above can be run in different machines. The connectivity is 
 
 Tasted in both Raspberry Pi and Mac.
 
-server - Mac or a Raspberry Pi
-client - on a Raspberry Pi
-client1 - on another Raspberry Pi
+server - Mac or a Raspberry Pi.
+client - on a Raspberry Pi.
+client1 - on another Raspberry Pi.
 
 Made with :heart: by [@tworitdash](http://github.com/tworitdash/).  
 
